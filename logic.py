@@ -100,3 +100,4 @@ if __name__ == '__main__':
     print()
     print(fighter.attack(wizard))
 
+# IRUNO
