@@ -41,4 +41,3 @@ def attack_pok(message):
 
 bot.infinity_polling(none_stop=True)
 
-# IRUNO

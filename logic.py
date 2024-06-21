@@ -99,5 +99,3 @@ if __name__ == '__main__':
     print(fighter.info())
     print()
     print(fighter.attack(wizard))
-
-# IRUNO
